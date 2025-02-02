@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614672964979",
+    "project_id": "tazzur-7cda6",
+    "storage_bucket": "tazzur-7cda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614672964979:android:5c1557a23a69521cff7906",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAayLwNWElv0TO0RNHn6PQI3nAlpD1smbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
