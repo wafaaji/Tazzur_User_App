@@ -19,6 +19,7 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 <div style="display: flex; justify-content: space-between;">
   <img src="Arabic/Job And Training App Arabic Version.png" alt="Auth" width="300"/>
 </div>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="English/Job And Training App English Version.png" alt="Auth" width="300"/>
 </div>
